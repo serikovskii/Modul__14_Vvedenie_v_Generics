@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\HomeWorkCartGame\HomeWorkCartGame\bin\Debug\HomeWorkCartGame.exe.config
+C:\Users\azat\source\repos\HomeWorkCartGame\HomeWorkCartGame\bin\Debug\HomeWorkCartGame.exe
+C:\Users\azat\source\repos\HomeWorkCartGame\HomeWorkCartGame\bin\Debug\HomeWorkCartGame.pdb
+C:\Users\azat\source\repos\HomeWorkCartGame\HomeWorkCartGame\obj\Debug\HomeWorkCartGame.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\HomeWorkCartGame\HomeWorkCartGame\obj\Debug\HomeWorkCartGame.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\HomeWorkCartGame\HomeWorkCartGame\obj\Debug\HomeWorkCartGame.exe
+C:\Users\azat\source\repos\HomeWorkCartGame\HomeWorkCartGame\obj\Debug\HomeWorkCartGame.pdb
