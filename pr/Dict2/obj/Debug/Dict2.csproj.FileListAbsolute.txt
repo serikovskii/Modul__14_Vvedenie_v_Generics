@@ -1,6 +1,0 @@
-C:\Users\azat\source\repos\PracticGenerics\Dict2\bin\Debug\Dict2.exe.config
-C:\Users\azat\source\repos\PracticGenerics\Dict2\bin\Debug\Dict2.exe
-C:\Users\azat\source\repos\PracticGenerics\Dict2\bin\Debug\Dict2.pdb
-C:\Users\azat\source\repos\PracticGenerics\Dict2\obj\Debug\Dict2.csproj.CoreCompileInputs.cache
-C:\Users\azat\source\repos\PracticGenerics\Dict2\obj\Debug\Dict2.exe
-C:\Users\azat\source\repos\PracticGenerics\Dict2\obj\Debug\Dict2.pdb

@@ -1,0 +1,7 @@
+c:\users\мукушева.corp\source\repos\PracticeGenerics\PracticeGenerics\bin\Debug\PracticeGenerics.exe.config
+c:\users\мукушева.corp\source\repos\PracticeGenerics\PracticeGenerics\bin\Debug\PracticeGenerics.exe
+c:\users\мукушева.corp\source\repos\PracticeGenerics\PracticeGenerics\bin\Debug\PracticeGenerics.pdb
+c:\users\мукушева.corp\source\repos\PracticeGenerics\PracticeGenerics\obj\Debug\PracticeGenerics.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\PracticeGenerics\PracticeGenerics\obj\Debug\PracticeGenerics.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\PracticeGenerics\PracticeGenerics\obj\Debug\PracticeGenerics.exe
+c:\users\мукушева.corp\source\repos\PracticeGenerics\PracticeGenerics\obj\Debug\PracticeGenerics.pdb

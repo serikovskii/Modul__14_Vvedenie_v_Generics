@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C2C1B3DF-B67F-4106-B380-19BB2655DD32}</ProjectGuid>
+    <ProjectGuid>{A683A2DE-90C1-4B38-AB0F-BFEC715A794E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Dict2</RootNamespace>
-    <AssemblyName>Dict2</AssemblyName>
+    <RootNamespace>PracticeGenerics</RootNamespace>
+    <AssemblyName>PracticeGenerics</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DictonaryNew.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
